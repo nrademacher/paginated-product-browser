@@ -1,6 +1,6 @@
 This is my solution to a coding challenge for mid-level frontend engineers.
 
-The tasks were as follows:
+The requirements were as follows:
 
 - Fetch list of products from external API
 - Each request should return up to 10 products
